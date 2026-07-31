@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": { diljith
-    "ip": diljith1414.aternos.me
+    "ip": "diljith1414.aternos.me",
     "port": 59117
     "version": "",
     "try-creative": false
